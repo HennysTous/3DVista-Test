@@ -1,0 +1,51 @@
+#: locale=es
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_EBB4FE85_F974_DE2C_41D3_E8BA29D90F64.text = Regresar al Lobby
+
+## Media
+
+### Imágen
+imlevel_EC2FF98C_F96D_623C_41E4_CCD61C1098A3.url = media/panorama_F4A8DD64_F953_A2EC_41EF_223603F7835D_HS_mzlmh9s9_es.png
+
+### Subtítulos de Video
+
+### Título
+panorama_F4A8DD64_F953_A2EC_41EF_223603F7835D.label = Ascensor360
+panorama_F290D864_F953_A2EC_41ED_3A275E758364.label = Lobby360
+panorama_F29432CE_F953_663C_41E4_B6261F6D7D74.label = Oficina1 360
+panorama_F293CE65_F953_7EEC_41DE_F3B57BB2B46A.label = Oficina2 360
+panorama_F294D8BF_F953_625D_41E6_DFA9E837D136.label = Oficina3 360
+panorama_F2AB4283_F96C_A624_41ED_97E8EC68AA85.label = Piso7-1 360
+panorama_F2AB4C8B_F96C_A225_41DF_263F8C634C42.label = Piso7-2 360
+video_E7245BAA_F95C_A664_41D6_CE2F153A8B0A.label = Prueba sistema de bloqueo
+panorama_F2AB679B_F96C_AE24_41E8_DA6CA63A76BF.label = PuertaOficina360
+
+### Video
+videolevel_DF8A0137_FB77_626C_41D1_E68EE1C0B0D7.url = media/video_E7245BAA_F95C_A664_41D6_CE2F153A8B0A_es.mp4
+videolevel_DF8A0137_FB77_626C_41D1_E68EE1C0B0D7.posterURL = media/video_E7245BAA_F95C_A664_41D6_CE2F153A8B0A_poster_es.jpg
+
+## Skin
+
+### Etiqueta
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = Bienvenido a nuestras oficinas
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = Bienvenido a nuestras oficinas
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151.text = Tour 360
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = Tour 360
+
+### Imágen
+Image_E52CEB68_F975_A6E4_41B7_CCDBD1531899.url = skin/Image_E52CEB68_F975_A6E4_41B7_CCDBD1531899_es.png
+Image_E52CEB68_F975_A6E4_41B7_CCDBD1531899_mobile.url = skin/Image_E52CEB68_F975_A6E4_41B7_CCDBD1531899_mobile_es.png
+
+### Menú Desplegable
+DropDown_D86E8742_FAFC_AE24_41D5_9A381EC64F91.label = Entornos
+DropDown_D9928516_FB53_622C_41E5_AC760D073375.label = Entornos
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Tour LSV TECH
