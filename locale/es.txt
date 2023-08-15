@@ -1,5 +1,11 @@
 #: locale=es
 
+## Acción
+
+### URL
+WebFrame_CBDF0934_FB6D_A263_41EA_D26B5F1096D5.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d87518.2269137427!2d-75.57826315678838!3d10.417281027113974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62fed096c876f%3A0xfb018b53a5d634df!2sBanco%20Popular!5e0!3m2!1ses-419!2sco!4v1692132450739!5m2!1ses-419!2sco
+WebFrame_CBDF0934_FB6D_A263_41EA_D26B5F1096D5_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d87518.2269137427!2d-75.57826315678838!3d10.417281027113974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62fed096c876f%3A0xfb018b53a5d634df!2sBanco%20Popular!5e0!3m2!1ses-419!2sco!4v1692132450739!5m2!1ses-419!2sco
+
 ## Hotspot
 
 ### Texto
@@ -13,44 +19,42 @@ imlevel_EC2FF98C_F96D_623C_41E4_CCD61C1098A3.url = media/panorama_F4A8DD64_F953_
 ### Subtítulos de Video
 
 ### Título
-panorama_F4A8DD64_F953_A2EC_41EF_223603F7835D.label = Ascensor360
-panorama_F290D864_F953_A2EC_41ED_3A275E758364.label = Lobby360
-panorama_F29432CE_F953_663C_41E4_B6261F6D7D74.label = Oficina1 360
-panorama_F293CE65_F953_7EEC_41DE_F3B57BB2B46A.label = Oficina2 360
-panorama_F294D8BF_F953_625D_41E6_DFA9E837D136.label = Oficina3 360
-panorama_F2AB4283_F96C_A624_41ED_97E8EC68AA85.label = Piso7-1 360
-panorama_F2AB4C8B_F96C_A225_41DF_263F8C634C42.label = Piso7-2 360
+panorama_F4A8DD64_F953_A2EC_41EF_223603F7835D.label = Ascensor
+panorama_F290D864_F953_A2EC_41ED_3A275E758364.label = Lobby
+panorama_F29432CE_F953_663C_41E4_B6261F6D7D74.label = Oficina 1
+panorama_F293CE65_F953_7EEC_41DE_F3B57BB2B46A.label = Oficina 2
+panorama_F294D8BF_F953_625D_41E6_DFA9E837D136.label = Oficina 3
+panorama_F2AB679B_F96C_AE24_41E8_DA6CA63A76BF.label = Pasillo
+panorama_F2AB4283_F96C_A624_41ED_97E8EC68AA85.label = Piso 7-1
+panorama_F2AB4C8B_F96C_A225_41DF_263F8C634C42.label = Piso 7-2
 video_E7245BAA_F95C_A664_41D6_CE2F153A8B0A.label = Prueba sistema de bloqueo
-panorama_F2AB679B_F96C_AE24_41E8_DA6CA63A76BF.label = PuertaOficina360
 
 ### Video
-videolevel_D112F22C_FBAF_A67C_41EE_3451D19217AE.url = media/video_E7245BAA_F95C_A664_41D6_CE2F153A8B0A_es.mp4
-videolevel_D112F22C_FBAF_A67C_41EE_3451D19217AE.posterURL = media/video_E7245BAA_F95C_A664_41D6_CE2F153A8B0A_poster_es.jpg
+videolevel_CB199E58_FB5D_DE23_41B0_05B9B08DC410.url = media/video_E7245BAA_F95C_A664_41D6_CE2F153A8B0A_es.mp4
+videolevel_CB199E58_FB5D_DE23_41B0_05B9B08DC410.posterURL = media/video_E7245BAA_F95C_A664_41D6_CE2F153A8B0A_poster_es.jpg
 
 ## Menú VR
 
 ### Texto
-MenuItem_D6D0E637_FBAF_AE6D_41E5_9981F0C100CC.label = Ascensor360
-MenuItem_D6D0A637_FBAF_AE6D_41EB_5169F13CA9F5.label = Lobby360
+MenuItem_C84DDF94_FB5D_7E2C_41C2_75E44D255C01.label = Ascensor
+MenuItem_C84C3F93_FB5D_7E2B_41D0_52D1DF048497.label = Lobby
 Menu_D1CBCFFD_FBF4_DDDC_41E4_EE0CD21DE240.label = Media
-MenuItem_D6D04638_FBAF_AE63_4177_56C51ED46C7E.label = Oficina1 360
-MenuItem_D6D09637_FBAF_AE6D_41EB_3CA5B1FE525D.label = Oficina2 360
-MenuItem_D6D0F637_FBAF_AE6D_41AE_5832E4AE1188.label = Oficina3 360
-MenuItem_D6D06638_FBAF_AE63_41A6_6D19DD256255.label = Piso7-1 360
-MenuItem_D6D0B637_FBAF_AE6D_41C8_B792C1D835B6.label = Piso7-2 360
-MenuItem_D6D08637_FBAF_AE6D_41C6_E2E9AAC8B44E.label = PuertaOficina360
+MenuItem_C84C1F94_FB5D_7E2C_41E6_38321387573A.label = Oficina 1
+MenuItem_C84DFF94_FB5D_7E2C_41DB_3078B2772DB0.label = Oficina 2
+MenuItem_C84DCF94_FB5D_7E2C_41E4_8F9C2AC6775D.label = Oficina 3
+MenuItem_C84C2F93_FB5D_7E24_41D2_0D008F1D79D1.label = Pasillo
+MenuItem_C84C0F94_FB5D_7E2C_41E1_30C7CA343B72.label = Piso 7-1
+MenuItem_C84DEF94_FB5D_7E2C_41E0_CA8F1E7E880E.label = Piso 7-2
 
 ## Skin
 
 ### Botón
-Button_D3B8A21A_FBDC_E624_41D4_BDEB7237CB4F.label = Ascensor
-Button_DC35D72C_FBD4_AE7C_41A5_A2A83482B49D.label = Lobby
-Button_D2274DA2_FBD3_A264_41E5_28235DA319CA.label = Oficina - Bloque 1
-Button_D2231C04_FBD3_A22C_41EC_5813CAF46500.label = Oficina - Bloque 2
-Button_D231D29C_FBD3_A65C_41DF_1A0413AF9F92.label = Oficina - Bloque 3
-Button_D25A5F2E_FBD3_DE7C_41EB_ED74FBDA4AAC.label = Pasillo
-Button_D257B2D1_FBD3_E624_41E5_25156B1704A8.label = Piso 7 - 1
-Button_D25CA0E9_FBD3_E3E4_41E8_5B967E0F33D7.label = Piso 7 - 2
+Button_CA11856F_FBAD_62FD_41C3_1719A7457092_mobile.label = Lista de Entornos
+Button_CA11856F_FBAD_62FD_41C3_1719A7457092.label = Lista de Entornos
+Button_CBDF7934_FB6D_A263_41D8_9F03739B882F_mobile.label = lorem ipsum
+Button_CBDF7934_FB6D_A263_41D8_9F03739B882F.label = lorem ipsum
+Button_C8687F8C_FB74_DE3C_41ED_AE2CA197DB63.label = ¿Donde nos encontramos?
+Button_C8687F8C_FB74_DE3C_41ED_AE2CA197DB63_mobile.label = ¿Donde nos encontramos?
 
 ### Etiqueta
 Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = Bienvenido a nuestras oficinas
@@ -59,14 +63,16 @@ Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151.text = Tour 360
 Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = Tour 360
 
 ### Imágen
-Image_DC32672C_FBD4_AE7C_41C4_CDFC35A9D745.url = skin/Image_DC32672C_FBD4_AE7C_41C4_CDFC35A9D745_es.png
-Image_E52CEB68_F975_A6E4_41B7_CCDBD1531899.url = skin/Image_E52CEB68_F975_A6E4_41B7_CCDBD1531899_es.png
-
-### Menú Desplegable
-DropDown_D86E8742_FAFC_AE24_41D5_9A381EC64F91.label = Entornos
+Image_CA16F570_FBAD_62E3_41E2_478B475474F0.url = skin/Image_CA16F570_FBAD_62E3_41E2_478B475474F0_es.png
+Image_CA16F570_FBAD_62E3_41E2_478B475474F0_mobile.url = skin/Image_CA16F570_FBAD_62E3_41E2_478B475474F0_mobile_es.png
 
 ### Texto Multilínea
-HTMLText_DC32972D_FBD4_AE7C_41C3_5D254E34243E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_CBDF4934_FB6D_A263_41C1_8811EF2AFB3D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.48vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.48vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.959999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.96vh;font-family:'Bebas Neue Bold';">Visitanos!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.54vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;">Nos encontramos en las oficinas del Edificio Banco Popular, en el centro historico.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;">Nuestra oficina esta en el 7mo piso, oficina numero 02.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_CBDF4934_FB6D_A263_41C1_8811EF2AFB3D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.48vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.48vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.959999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.96vh;font-family:'Bebas Neue Bold';">Visitanos!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.54vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;">Nos encontramos en las oficinas del Edificio Banco Popular, en el centro historico.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;">Nuestra oficina esta en el 7mo piso, oficina numero 02.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_CBF41A9C_FB73_A65C_41CB_CC406C59BA60_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.351851851851851vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.35vh;font-family:'Montserrat';"><B>Nuestros espacios:</B></SPAN></SPAN></DIV></div>
+HTMLText_CBF41A9C_FB73_A65C_41CB_CC406C59BA60.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.351851851851851vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.35vh;font-family:'Montserrat';"><B>Nuestros espacios:</B></SPAN></SPAN></DIV></div>
+HTMLText_CA162570_FBAD_62E3_41EB_F57E00666A83.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_CA162570_FBAD_62E3_41EB_F57E00666A83_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
 
 ## Tour
 
